@@ -1,3 +1,4 @@
-Это задача из hr-tech-interview "09_LengthShortestPath"
+Р­С‚Рѕ Р·Р°РґР°С‡Р° РёР· hr-tech-interview "09_LengthShortestPath"
 
 https://github.com/EvheniCH-Ufa/yandex_coderun/tree/main/hr-tech-interview/09_LengthShortestPath
+
